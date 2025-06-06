@@ -14,7 +14,7 @@ I'm a passionate engineer and tech enthusiast focused on building smart, sustain
 - 🛠 IoT & Embedded Systems: Circuit Design, Automation, Arduino, ESP32
 - 🌐 Web Dev: Flask, Firebase, Git/GitHub, Responsive UI Design
 - 📊 SDG Analysis: PESTLE, Empathy Mapping, Root Cause Analysis
-- **NB: Most of the Technologies & Tools are At Beginner Level**
+**NB: Most of the Technologies & Tools are At Beginner Level**
 
 ---
 
