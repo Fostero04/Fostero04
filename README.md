@@ -14,6 +14,7 @@ I'm a passionate engineer and tech enthusiast focused on building smart, sustain
 - 🛠 IoT & Embedded Systems: Circuit Design, Automation, Arduino, ESP32
 - 🌐 Web Dev: Flask, Firebase, Git/GitHub, Responsive UI Design
 - 📊 SDG Analysis: PESTLE, Empathy Mapping, Root Cause Analysis
+- **NB: Most of the Technologies & Tools are At Beginner Level**
 
 ---
 
@@ -33,7 +34,6 @@ I'm a passionate engineer and tech enthusiast focused on building smart, sustain
 - 🌐 30-Day Web Development Training – Mahawiki Tech Community
 - 💼 3 Years Industry Experience – Maintenance Technician in Paper Manufacturing
 - 🧭 ALX Pathway Program (8-month leadership & career accelerator)
-- 🥇 National STEAM Day Volunteer & SDG Project Lead (UN Tech Team)
 
 ---
 
@@ -44,8 +44,8 @@ I’m deeply committed to building **smart, tech-powered systems** that bring **
 
 ### 🌐 Connect With Me
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/foster-annie) *(update with your actual link if different)*
-- 📧 Email: fosterannie@example.com *(replace with your preferred address)*
+- [🔗 LinkedIn](https://www.linkedin.com/in/foster-annie)
+- 📧 Email: phostaannie@gmail.com
 - 🌱 Portfolio site: coming soon!
 
 ---
